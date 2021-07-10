@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MAD_instragram</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="name">Name</string>
+    <string name="supun_nanayakkara">Supun Nanayakkara</string>
+    <string name="username">Username</string>
+    <string name="website">Website</string>
+    <string name="bio">Bio</string>
+    <string name="switch_to_professional_account">Switch to Professional account</string>
+    <string name="personal_information_settings">Personal information settings</string>
+    <string name="change_profile_photo">Change profile photo</string>
+    <string name="supun_nana">Supun.nana</string>
+    <string name="instragram">TODO</string>
+    <string name="messanger">TODO</string>
+    <string name="home">TODO</string>
+    <string name="from">from</string>
+    <string name="todo">TODO</string>
+    <string name="facebook">facebook</string>
+    <string name="photos_and_videos_of_you">Photos and videos of you</string>
+    <string name="when_people_tag_you_in_photos_and_videos_they_ll_appear_here">When people tag you in photos and videos,they\'ll appear here.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="following">Following</string>
+    <string name="_3">3</string>
+    <string name="followers">Followers</string>
+    <string name="_1">1</string>
+    <string name="posts">Posts</string>
+    <string name="_0">0</string>
+    <string name="thilana_madushan">Thilana Madushan</string>
+    <string name="Profile_new">Profile</string>
+    <string name="when_you_share_photoes_and_videos_they_ll_appear_on_your_profile">When you share photoes and videos, they\'ll appear on your profile</string>
+    <string name="share_your_first_photo_or_video">Share your first photo or video</string>
+    <string-array name="profile">
+        <item>Virat.kholi.27</item>
+        <item>Priyanka.Nick</item>
+        <item>Jeniper.Lopaz</item>
+        <item>Aryan.Khan.97</item>
+        <item>Abisheck.Siddarth.56</item>
+    </string-array>
+</resources>
